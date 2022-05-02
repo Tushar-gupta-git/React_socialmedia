@@ -6,6 +6,7 @@ function App() {
   return (
     <div className="App">
       <Home/>
+    arrey bc home ke alawa kuch nhi nhi hai lo
     </div>
   );
 }
